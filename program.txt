@@ -1,8 +1,8 @@
-<span id="a">guest@haloethans</span>:<span id="b">~</span><span id="c">$</span> cd haloethans.dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">guest@haloethans</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">guest@Ethernet</span>:<span id="b">~</span><span id="c">$</span> cd ethernet.dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">guest@Ethernet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
+Welcome to my website "<span id="k">Created by Ethernet</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that this looks like a hacking website but in reality it's not</p>
+HWelcome to my little corner of the internet — a hacking/terminal-inspired website where technology, creativity, and experimentation come together.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My name is Ethan, although you can also call me Ethernet. I’m a tech-savvy person with a strong interest in computers, programming, cybersecurity, software development, and pretty much anything that involves understanding how technology works behind the scenes.</p>
 Let me introduce myself..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hello my name is Ethan also known as HaloEthans i am a content creator and i make youtube videos i am new to program such amazing stuff with some amazing software for example.. html and css, javascript, python, flask, mysql, ruby, java, i don't know what else i should learn.. :) </p>
 What projects am i currently working on?.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working on a wordle game at the moment with 100+ words to choose from and should be releasing in beta soon :)</p>
 <p> Why have i created this website? :)</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
