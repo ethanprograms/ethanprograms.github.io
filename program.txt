@@ -1,4 +1,4 @@
-<span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cd haloethans.dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cd ethernet.dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
