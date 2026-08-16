@@ -1,0 +1,20 @@
+<span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cd haloethans.dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
+My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+
+Welcome to my little corner of the internet — a hacking/terminal-inspired website where technology, creativity, and experimentation come together.</p>
+Let me introduce myself..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My name is Ethan, although you can also call me Ethernet. I’m a tech-savvy person with a strong interest in computers, programming, cybersecurity, software development, and pretty much anything that involves understanding how technology works behind the scenes. </p>
+What projects am i currently working on?.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working on a Windows ToolKit that allows users to update there computers, check storages or any other diagnostics</p>
+<p> Why have i created this website? :)</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> Right now, I’m focused on learning how to develop new and amazing projects using different programming languages and technologies. I’m constantly experimenting, testing ideas, breaking things, fixing them, and learning something new along the way. Every project is another opportunity to improve my skills, explore a different concept, and see what I can create.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>What Do i want to do when i'm a developer <br><br><br>In all honestly i haven't decieded of what path of programming i want to do.. So far i can see that i am really good with html and css and javascript.. i'm still learning python, flask, mysql, ruby, java, i don't know what else i should learn.. :) <a href="link"> Would you like to know some tips about programming if you said yes then enjoy these tips</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Always Stick to One Task at a Time. ...
+ Different People Find Different Things Easy. ...
+ Your Work Can Be Only 80% Complete. ...
+ Learn How to Google. ...
+ Don't Be Afraid to Ask for Help or to Help People Back. ...
+ Technology Always Changes.: <br>
+
+<p><a href="https://github.com/ethanprograms/Ethan-Windows-Toolkit">My Windows Toolkit</a></p>
+
+TAKE MY ADVICE, "<span id="k">never give up on your dreams because maybe one day they will become a reality</span>". <!-- sjkfhskjf -->
